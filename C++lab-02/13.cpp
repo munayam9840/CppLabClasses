@@ -8,6 +8,6 @@ int main(){
 		cout<<"Square of "num<< "="<<square<<endl;
 	}else{
 		cube=num*num*num;
-		cout<<"Cub of "num<< "="<<cube<<endl;
+		cout<<"Cube of "num<< "="<<cube<<endl;
 	}
 }
